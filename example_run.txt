@@ -1,0 +1,12 @@
+🎯 Welcome to Guess the Number game!
+I'm thinking of a number between 1 and 100. Try to guess it!
+Enter your guess (1–100): > 50
+🔼 Too low! Try a higher number.
+Enter your guess (1–100): > 75
+🔽 Too high! Try a lower number.
+Enter your guess (1–100): > 63
+🔼 Too low! Try a higher number.
+Enter your guess (1–100): > 69
+🔽 Too high! Try a lower number.
+Enter your guess (1–100): > 66
+🎉 Congratulations! You guessed the number 66 in 5 attempts.
